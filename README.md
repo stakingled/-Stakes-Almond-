@@ -37,4 +37,4 @@ once the Stake is finished, the token holders will receive their original amount
 the interest earned on both assets. 
 A penalty may be applied if stakes are ended before a pre-defined expiration period.
 
-Source: https://wpsmartcontracts.com/flavors/almond/
+Author: https://wpsmartcontracts.com/flavors/almond/
