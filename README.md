@@ -1,6 +1,5 @@
 Almond
-ERC-20 / BEP-20 Advanced Staking
-Advanced Staking for Standard ERC-20 / BEP-20 tokens
+ERC-20 / BEP-20 Advanced Staking for Standard ERC-20 / BEP-20 tokens
 
 What is Almond Smart Contract?
 
